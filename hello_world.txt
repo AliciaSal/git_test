@@ -1,1 +1,4 @@
 editando el txt
+Estas herramientas facilitan la administración de versiones de un producto, por lo general de código fuente, pero se pueden almacenar documentos, imágenes, etc.
+Almacenamiento (centralizado o distribuido). Gestión de los colaboradores de un proyecto, permisos de cada colaborador, 
+Existen Subversion, Plastic, Git, y otras. Algunas son pagas, como Plastic.
